@@ -1,0 +1,7 @@
+Premain-Class: dilu.kxq.tools.inst.InstrumentCrow
+Agent-Class: dilu.kxq.tools.inst.InstrumentCrow
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
+
+
